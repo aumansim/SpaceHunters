@@ -1,4 +1,4 @@
-# Знаниевая база
+# База знаний
 
 ## ![Space Hunters: Reborn](../../../static/img/majorupdatepic.png)
 [Вернуться на главную](../../../index.md)
